@@ -209,6 +209,15 @@ body {
     height: 558px;
   }
   /* End Home Page */
+
+  /* Promotions Page */
+
+  .promo {
+    background: url(../images/promo_medium.jpg) no-repeat;
+    height: 558px;
+  }
+
+  /* End Promotions Page */
 }
 
 /********** Small devices only **********/
